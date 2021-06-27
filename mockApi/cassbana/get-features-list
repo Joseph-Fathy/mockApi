@@ -1,0 +1,15 @@
+{
+    "code": 200,
+    "error": "",
+    "errorMessage": "",
+    "data": [{
+        "featureName": "ekyc",
+        "enabled": true
+    }, {
+        "featureName": "rewards",
+        "enabled": true
+    }, {
+        "featureName": "consumerLending",
+        "enabled": true
+    }]
+}
